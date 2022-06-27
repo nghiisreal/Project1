@@ -1,0 +1,24 @@
+.form-control{
+    width: 300px;
+    margin-left:auto ;
+    margin-right: auto;
+    display: inline-block;
+}
+button{
+    border: none;
+    background: white;
+    position: absolute;
+    top: 9px;
+    left: 57%;
+    font-size: 19px;
+    border-radius: 16px;
+}
+button:focus{
+    border: none;
+}
+.search input{
+    border-radius: 20px;
+}
+.search{
+    position: relative;
+}
